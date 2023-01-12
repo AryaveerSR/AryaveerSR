@@ -4,3 +4,4 @@
 Not-so cool stuff. 
 
 - 📫 `me.aryaveer@gmail.com`
+- 🌐 `aryaveer.me`
