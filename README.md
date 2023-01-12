@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I'm AryaveerSR 
 
-I Do Stuff, a lot of it actually. Check out my pinned repositories.
+Not-so cool stuff. 
 
-- 🔭 I’m currently working on my portfolio site
-- 👯 I’m looking to collaborate on cool ideas
-- 📫 Send me a mail at `me.aryaveer@gmail.com`
+- 📫 `me.aryaveer@gmail.com`
