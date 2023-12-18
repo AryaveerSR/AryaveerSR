@@ -2,7 +2,6 @@
 ### I'm AryaveerSR 
 
 - 📫 `me.aryaveer@gmail.com`
-- 🌐 `aryaveer.me`
 
 ### Weapons of choice
 
