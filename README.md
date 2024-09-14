@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm AryaveerSR 
 
-I'm currently working on [Telllang](https://github.com/AryaveerSR/Tell),a toy programming language project in C.
+I'm currently working on [a toy programming language](https://github.com/AryaveerSR/Tell) in C.
 
 - 📫 `me.aryaveer@gmail.com`
 - `@.aryaveer` on Discord
