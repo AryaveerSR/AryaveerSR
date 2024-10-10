@@ -1,8 +1,6 @@
 ## Hi there 👋
 ### I'm AryaveerSR 
 
-I'm currently working on [a toy programming language](https://github.com/AryaveerSR/VanadiumC) in C.
-
 - 📫 `me.aryaveer@gmail.com`
 - `@.aryaveer` on Discord
   
